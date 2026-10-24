@@ -15,7 +15,7 @@
 
 ## 二、待做（13 项）
 
-1. **封存快照原件**：`archive/snapshots/` 5 份 → **5/36**。逐轮搬，不许汇总充数
+1. **封存快照原件**：`archive/snapshots/` 5 份 → **5/40**。逐轮搬，不许汇总充数
 2. 判据14第二刀：22 条已砍，剩 26 条未细分
 3. 等开路者 per-layer timing 实测，验 07 报告「用」
 4. 「阳动必阴藏」机制化（他出钩子，我出法理）
@@ -42,5 +42,5 @@
 |---|---|
 | `archive/README.md`（唯一指针） | 已推 |
 | `archive/COGNITION_FULL.md` | 已推，46条时点副本（现 80 条：L1 5／L2 40／L3 31／S 4；**过时，引用必带时点**） |
-| `archive/snapshots/*.md` 原件 | **5/36**（0015、0115、0215、0315、0415，0415 `efafc27f` identical True） |
+| `archive/snapshots/*.md` 原件 | **5/40**（0015、0115、0215、0315、0415，0415 `efafc27f` identical True） |
 | `archive/SNAPSHOTS_FULL/INDEX` | 未推，汇总不等于封存 |
